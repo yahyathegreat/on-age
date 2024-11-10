@@ -1,9 +1,9 @@
-age = int(input("enter your age"))
-if(age>=10)or if(age<=20):
+number = int(input("enter a number"))
+if(number>=10)or if(number<=20):
     print("you are allowed")
 else:
     print("you are not allowed")
-if(age>20):
+if(number>20):
     print("you are not allowed")
 import os
 a = input ("if you want to shutdown(y\n)")
